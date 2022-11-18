@@ -1,0 +1,36 @@
+.lpimg{
+	height: 50px;
+}
+
+header{
+	background-color: #fff;
+}
+
+.blue{
+	background-color: rgba(42,96,158,255);
+  }
+  
+  .grid{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: 1fr;
+  }
+  
+  .textgrid{
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 40px;
+	font-size: 24px;
+  }
+  
+  .imggrid{
+	height: 450px;
+	margin: 10px;
+  }
+
+.dnav{
+	display: inline-block;
+	margin: 10px;
+}
